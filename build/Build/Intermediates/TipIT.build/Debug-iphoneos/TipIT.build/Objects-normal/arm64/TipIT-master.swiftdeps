@@ -1,0 +1,6 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "ac03d6ba166e8ea88f319ebe88df1582"
+build_time: [556599196, 2934000]
+inputs:
+  "/Users/vidhshah/Documents/TipIT/TipIT/TipIT/ViewController.swift": [556599193, 0]
+  "/Users/vidhshah/Documents/TipIT/TipIT/TipIT/AppDelegate.swift": [556599193, 0]
